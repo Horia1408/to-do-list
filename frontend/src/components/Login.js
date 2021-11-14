@@ -124,7 +124,7 @@ export const Login = () => {
                         sx={{ mt: 1, mb: 1 }}
                         style={{ width: 447 }}
                     >
-                        Log In
+                        Already have an account
                     </Button>
                 </Grid>
             </Box>

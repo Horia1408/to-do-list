@@ -19,7 +19,6 @@ export const Login = () => {
         setChecked([checked[1], event.target.checked]);
     };
 
-    
     const handleSubmitRegister = (event) => {
         event.preventDefault();
         const data = new FormData(event.currentTarget);

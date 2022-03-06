@@ -40,7 +40,7 @@ export const Login = () => {
         });
     }
 
-    if (loginOpt == false){
+    if (loginOpt === false){
 
         return (
             <Box
